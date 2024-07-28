@@ -207,3 +207,7 @@ SELECT
 FROM votes_2019 v, electors_2019 e;
 ```
 Result💡: 67.71193
+
+![with map](https://github.com/user-attachments/assets/85099152-e3b6-4b8f-89e7-8f66aeb77994)
+
+![voter turn out ratios ](https://github.com/user-attachments/assets/23e198b7-868e-44bf-89d3-cc71530182e8)
