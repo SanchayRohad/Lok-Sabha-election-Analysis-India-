@@ -12,7 +12,7 @@ Task is to Imagine myself and answer the Primary and Secondary Questions
 * Excel - Data Extraction, Data Cleaning
 * SQL - Data Cleaning, Data Analysis.
 * Power Bi - Data Visualization
-* Canva - Presentation
+
 
 ## Data Cleaning and Data Validation
 📂First, Import the datasets into any SQL Database Server. I have used MYSQL Workbench.
