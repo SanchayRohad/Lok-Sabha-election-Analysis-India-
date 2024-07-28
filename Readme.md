@@ -1,4 +1,4 @@
-# Loksabha Elections Data Analysis Using SQL & Power Bi - Codebasics Resume Project Challenge : 11
+# Loksabha Elections 2014 vs 2019 Data Analysis Using SQL & Power Bi (Codebasics) : 11
 
 Live Dashboard : - (https://app.powerbi.com/view?r=eyJrIjoiZTQzNzNhMmItN2VjOC00OTczLThiMGYtMGIyYmQzMzcyNTMwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=c922b71979428db7a111)
 
